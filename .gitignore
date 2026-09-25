@@ -1,0 +1,15 @@
+# Challenge data and bulky local artefacts are never committed (GitHub 100MB/file limit, repo size).
+student_resource/
+__MACOSX/
+*.zip
+work/
+output/*.tsv
+*.parquet
+*.npy
+*.npz
+*.pkl
+*.joblib
+*.txt.gz
+__pycache__/
+*.pyc
+.DS_Store
